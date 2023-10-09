@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson6</string>
+    <string name="first_text">Вам понятен этот урок?</string>
+    <string name="yes_btn_text">Yes</string>
+    <string name="no_btn_text">No</string>
+    <string name="restart_btn_text">Restart</string>
+</resources>

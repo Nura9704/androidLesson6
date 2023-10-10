@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     private var isClicked: Boolean = true
     private var arrText = arrayOf(
         "Вам понятен этот урок?", "Я рад, что все понятно. Продолжим?", "Ура!",
-        "Мне жаль. Посмотрим урок еще раз?", "Тогда увидимся!"
+        "Мне жаль. Посмотрим урок еще раз?", "Тогда увидимся! Пока"
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
